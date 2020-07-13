@@ -1,4 +1,4 @@
-package com.aueui.message;
+package com.aueui.contact;
 
 import org.junit.Test;
 

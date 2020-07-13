@@ -1,4 +1,4 @@
-package com.aueui.message;
+package com.aueui.contact;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
